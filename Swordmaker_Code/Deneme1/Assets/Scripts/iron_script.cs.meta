@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: cd880974196346b47b6b490749086b0d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - sword: {instanceID: 0}
+  - points_win: {instanceID: 0}
+  - points_lose: {instanceID: 0}
+  - lava: {fileID: 2100000, guid: aa4eca7916e75134081b1e405fa5944f, type: 2}
+  - water: {instanceID: 0}
+  - silver: {instanceID: 0}
+  - left: {instanceID: 0}
+  - right: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

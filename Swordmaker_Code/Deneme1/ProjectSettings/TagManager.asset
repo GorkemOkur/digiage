@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - irons
+  - sword
+  - collectibles
+  - lava_point
+  - lava
+  - points
+  - punishment
+  - sword_part
+  - water
+  - water_point
+  - smithing
+  - smithing_point
+  - sword_part_smithing
+  - sword_part_ready
+  - sharpening
+  - sharpening_point
+  - sword_part_sharpening
+  - focus
+  - level1_info_text
+  - money
+  - position
+  - obstacle
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - irons
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
